@@ -38,8 +38,8 @@ Permite visualizar colunas, calcular estatísticas numéricas e filtrar dados co
   - tabulate
 
 Instale as dependências com:
-```bash
-pip install pandas numpy tabulate```
+bash
+```pip install pandas numpy tabulate``` 
 
 ## Como usar
 
@@ -64,9 +64,3 @@ pip install pandas numpy tabulate```
      - Valores ímpares (somente colunas inteiras)
 5. Siga as instruções no terminal para inserir números ou escolher opções.
 6. Os resultados serão exibidos em formato de tabela diretamente no terminal.
-
-
-
-
-```bash
-pip install pandas numpy tabulate
