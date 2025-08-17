@@ -39,7 +39,9 @@ Permite visualizar colunas, calcular estatísticas numéricas e filtrar dados co
 
 Instale as dependências com:
 bash
-```pip install pandas numpy tabulate``` 
+```
+pip install pandas numpy tabulate
+``` 
 
 ## Como usar
 
