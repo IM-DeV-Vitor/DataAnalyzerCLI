@@ -38,16 +38,16 @@ Permite visualizar colunas, calcular estatísticas numéricas e filtrar dados co
   - tabulate
 
 Instale as dependências com:
-bash
-```
+
+``` bash
 pip install pandas numpy tabulate
 ``` 
 
 ## Como usar
 
 1. Execute o script no terminal.
-2. Informe o delimitador do arquivo CSV (por exemplo, `,` ou `;`).
-3. Digite o caminho do arquivo CSV que deseja analisar.
+2. Selecione o arquivo no Pop-Up que aparecer na tela (pode demorar um pequeno tempo).
+3. Informe o delimitador do arquivo CSV (por exemplo, `,` ou `;`).
 4. Escolha a operação desejada:
    - Visualizar o CSV completo.
    - Listar os valores de uma coluna específica.
