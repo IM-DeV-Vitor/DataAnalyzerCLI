@@ -66,3 +66,6 @@ pip install pandas numpy tabulate
      - Valores ímpares (somente colunas inteiras)
 5. Siga as instruções no terminal para inserir números ou escolher opções.
 6. Os resultados serão exibidos em formato de tabela diretamente no terminal.
+
+## Extra: 
+- Dentro da pasta /dist, há um arquivo .exe (Executável do Windows), permitindo o uso dentro do próprio gerenciador de arquivos.
